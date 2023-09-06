@@ -1,5 +1,5 @@
 # Cubethon Game
-A unity-based game.
+A Unity-based game.
 
 ## Version One
 It consists of three levels and it can be played using right and left arrows only.
